@@ -1,4 +1,4 @@
-```markdown
+
 # Hi, I'm Changqing Li
 
 **Test Development Engineer | Data Quality | AI Quality Engineering**
@@ -42,4 +42,4 @@ Flagship project combining **data quality, test automation, and AI quality engin
 **Test Engineering:** Python · pytest · REST API · CI/CD  
 **Data Platforms:** PostgreSQL · MySQL · MongoDB · FastAPI  
 **AI Quality:** RAG Evaluation · LLM Evaluation · Human Review · Quality Gates
-```
+
