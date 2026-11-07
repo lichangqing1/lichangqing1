@@ -4,7 +4,7 @@ Test Development Engineer | Data Quality | AI Quality Engineering
 
 ## About Me
 
-- 5+ years of experience in software testing and test development
+- 6+ years of experience in software testing and test development
 - Focused on data quality, ETL validation, API/DB reconciliation, and test automation
 - Experienced with Python, SQL, pytest, PostgreSQL, MySQL, MongoDB, FastAPI, and CI/CD
 - Building AI quality engineering workflows with Human Review, Evaluation, and Quality Gates
