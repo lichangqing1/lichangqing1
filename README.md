@@ -11,28 +11,39 @@ Test Development Engineer | Data Quality | AI Quality Engineering
 
 ## Featured Projects
 
-### Automotive Work Order Data Quality & AI-Assisted Test Engineering Platform
-Production-shaped QA platform covering data quality, deterministic testing,
-AI-assisted test generation/RCA, Jira review workflows, and measurable AI evaluation.
+### 1. Automotive Work Order Data Quality & AI-Assisted Test Engineering Platform
+My flagship quality-engineering project combining data quality,
+test automation, AI-assisted testing, human review, and quality gates.
 
 - 30,000 controlled work orders
-- 1,200 deliberately injected defects detected in the controlled benchmark
+- 1,200 injected defects detected in the controlled benchmark
+- PostgreSQL + FastAPI + Alembic + pytest
+- Jira-integrated review and failure workflow
 - 30 test-generation + 30 RCA evaluation cases
 - 48.98% measured human-effort reduction
-- AI quality gates remain BLOCK when quality thresholds are not met
+- AI quality gates remain BLOCK when thresholds are not met
 
 [Repository](https://github.com/lichangqing1/automotive-work-order-intelligence)
 [Live Demo](https://automotive-ai-quality-engineering.p154820.chatgpt.site/)
 
-### Bilingual RAG Evaluation & AI Safety Testing Suite
-- 73 structured benchmark scenarios
-- 45 pytest regression tests
-- Retrieval, grounding, hallucination, citation, jailbreak and prompt-injection evaluation
+### 2. Bilingual RAG Evaluation & AI Safety Testing Suite
+Evaluation framework for bilingual RAG and LLM systems.
 
-### Customer Churn Data Warehouse & BI Dashboard
+- 73 benchmark scenarios
+- 45 pytest regression tests
+- Retrieval, grounding, hallucination, citation and adversarial testing
+
+[Repository](https://github.com/lichangqing1/Bilingual-RAG-LLM-Quality-Engineering-and-AI-Assisted-Testing-Framework)
+
+### 3. Customer Churn Data Warehouse & BI Dashboard
+Data-processing and analytics project using Python, SQL and Power BI.
+
 - 7,043 customer records
-- Data cleaning, SQL marts, Power BI / DAX
+- Data cleaning, warehouse marts and DAX measures
 - 1,307 high-risk customers identified
+
+[Repository](https://github.com/lichangqing1/customer-churn-prediction)
+
 
 ## Tech Stack
 
